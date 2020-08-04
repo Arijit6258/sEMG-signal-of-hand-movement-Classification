@@ -1,2 +1,2 @@
 # An experimental study on upper limb position invariant EMG signal classification
-This is a research project I have done under Prof. Suman Samui.
+An experimental study on upper limb posi􏰀on invariant EMG signal classifica􏰀on using various machine learning models such as Linear regression, logis􏰀c regression, SVM, SGD etc.This paper is focused on the man-machine inter- faces for proper controlling of prosthe􏰀c devices with mul- 􏰀ple degrees of freedom.This is a research project I have done under Prof. Suman Samui.
